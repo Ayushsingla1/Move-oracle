@@ -1,0 +1,16 @@
+[package]
+name = "oracle"
+version = "1.0.0"
+authors = []
+
+[addresses]
+price_oracle_network = "0x89424104d7ba274a0756628baf1c8dce888c27a213ec6c5981d59332efc13b6a"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
