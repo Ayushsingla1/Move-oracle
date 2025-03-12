@@ -6,7 +6,7 @@ AGENTIC ORACLE
 🚀 Overview
 -----------
 
-This project integrates **AI agents**, and **blockchain technology** to provide accurate **ETH price feeds** on **APT/MOVEMENT BLOCKCHAIN**. Each node must register and submit price data, with a **5% tolerance mechanism** ensuring accuracy and penalizing anomalies. Users must **subscribe** to access the feed, while nodes earn **TOKEN rewards** for correct submissions.
+This project integrates **AI agents**, and **blockchain technology** to provide accurate **APT price feeds** on **APT/MOVEMENT BLOCKCHAIN**. Each node must register and submit price data, with a **5% tolerance mechanism** ensuring accuracy and penalizing anomalies. Users must **subscribe** to access the feed, while nodes earn **TOKEN rewards** for correct submissions.
 
 📌 Features
 -----------
@@ -64,7 +64,7 @@ This project integrates **AI agents**, and **blockchain technology** to provide 
 
 3.  The contract **perform mathematical operations** and validates against a **5% tolerance**.
 
-4.  **Accurate nodes** receive **ERC-20 rewards**, while **anomalous nodes** are penalized.
+4.  **Accurate nodes** receive **rewards**, while **anomalous nodes** are penalized.
 
 5.  Users can **subscribe** to access the price feed.
 
