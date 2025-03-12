@@ -6,7 +6,7 @@ AGENTIC ORACLE
 🚀 Overview
 -----------
 
-This project integrates **AI agents**, and **blockchain technology** to provide accurate **ETH price feeds** on **Sonic Blaze**. The AI agent securely stores transaction records using **SecretVault**, ensuring data integrity and privacy. Each node must register and submit price data, with a **5% tolerance mechanism** ensuring accuracy and penalizing anomalies. Users must **subscribe** to access the feed, while nodes earn **ERC-20 rewards** for correct submissions.
+This project integrates **AI agents**, and **blockchain technology** to provide accurate **ETH price feeds** on **APT/MOVEMENT BLOCKCHAIN**. Each node must register and submit price data, with a **5% tolerance mechanism** ensuring accuracy and penalizing anomalies. Users must **subscribe** to access the feed, while nodes earn **TOKEN rewards** for correct submissions.
 
 📌 Features
 -----------
@@ -15,7 +15,7 @@ This project integrates **AI agents**, and **blockchain technology** to provide 
 
 -   **Smart contract** computes final price & penalizes inaccurate data.
 
--   **ERC-20 rewards system** for accurate data providers.
+-   **TOKEN rewards system** for accurate data providers.
 
 -   **Monthly subscription model** for users accessing price feeds.
 
@@ -42,15 +42,11 @@ This project integrates **AI agents**, and **blockchain technology** to provide 
 
 -   **Express.js** -- API handling
 
--   **Nillion SecretVault** -- Secure storage for transactions
-
 ### **Blockchain**
 
--   **Solidity** -- Smart contract development
+-   **MOVE** -- Smart contract development
 
--   **Sonic Blaze** -- L1 blockchain
-
--   **ERC-20** -- Token standards
+-   **MOVEMENT** -- blockchain
 
 ### **AI & ML**
 
@@ -93,7 +89,7 @@ DOCUMENTATIONS
 1.  **Clone the repository**
 
     ```
-    git clone https://github.com/Ayushsingla1/agentic-eth
+    git clone https://github.com/Ayushsingla1/Move-oracle
     cd frontend/backend
     ```
 
@@ -108,15 +104,6 @@ DOCUMENTATIONS
     ```
     npm run dev
     ```
-
-Contract Info
--------------
-**Contracts are deployed on Arbitrum Sepolia Testnet**
-
-**Main Contract Address** : 0x894f819425e78cA3d7a3b877c088120D0b3Efc75
-
-**Token Contract Address** : 0x24F415EA1530EFbCF192e7999CaFF388cb55E2A2
-
 
 🙌 Contributors
 ---------------
